@@ -1,0 +1,1 @@
+<view><view>{{"登录状态:"+isLogin+" 登录状态:"+hasLogin}}</view><button data-event-opts="{{[['tap',[['login',[true]]]]]}}" bindtap="__e">登录</button><button data-event-opts="{{[['tap',[['login',[false]]]]]}}" bindtap="__e">退出</button></view>

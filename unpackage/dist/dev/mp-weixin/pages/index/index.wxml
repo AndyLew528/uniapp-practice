@@ -1,0 +1,1 @@
+<view class="content"><view class="text-area"><view>{{"登录状态："+title}}</view></view></view>

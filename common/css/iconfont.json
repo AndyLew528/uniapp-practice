@@ -1,0 +1,44 @@
+{
+  "id": "3148356",
+  "name": "cloudMuisc",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "27246318",
+      "name": "撤销",
+      "font_class": "cancel",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "27246319",
+      "name": "货车",
+      "font_class": "cargo",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "27246320",
+      "name": "刷新",
+      "font_class": "refresh",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "27246321",
+      "name": "货物",
+      "font_class": "goods",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "27246322",
+      "name": "货轮",
+      "font_class": "carg_boat",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    }
+  ]
+}
